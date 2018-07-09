@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">            第一個程式       </string>
+    <string name="activity_name">       第一個畫面       </string>
+    <string name="hello">               阿羅哈 安卓!     </string>
+    <string name="screen">              螢幕             </string>
+    <string name="hardwareInformation"> 硬體資訊         </string>
+    <string name="boardName">           主機板名         </string>
+    <string name="bootLoader">          載入器版號       </string>
+    <string name="factorTime">          出廠日期         </string>
+    <string name="hardWare">            硬體名稱         </string>
+    <string name="brand">               品牌名稱         </string>
+    <string name="cpu_abi">             處理器           </string>
+    <string name="device">              設備名稱         </string>
+    <string name="display">             版本號碼         </string>
+    <string name="pingerPrint">         設備識別碼       </string>
+    <string name="host">                主機             </string>
+    <string name="id">                  識別碼           </string>
+    <string name="serial">              序號             </string>
+    <string name="manufacturer">        製造商           </string>
+    <string name="model">               型號             </string>
+    <string name="product">             產品名稱         </string>
+    <string name="tags">                設備描述         </string>
+    <string name="type">                設備類別         </string>
+    <string name="user">                使用者           </string>
+    <string name="version.codename">    目前開發代號     </string>
+    <string name="version.incremental"> 內部識別碼       </string>
+    <string name="version.release">     軟體版本         </string>
+    <string name="version.sdk">         SDK              </string>
+    <string name="version.sdkIint">     API              </string>
+</resources>

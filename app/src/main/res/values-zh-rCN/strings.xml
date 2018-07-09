@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">第一个程序</string>
+    <string name="activity_name">第一个画面</string>
+    <string name="hello">阿罗哈 安卓!</string>
+    <string name="screen">屏幕</string>
+    <string name="boardName">主板名称</string>
+    <string name="bootLoader">加载器版号</string>
+    <string name="brand">品牌名称</string>
+    <string name="cpu_abi">处理器</string>
+    <string name="device">设备名称</string>
+    <string name="display">版本号码</string>
+    <string name="factorTime">出厂日期</string>
+    <string name="hardWare">硬件名称</string>
+    <string name="hardwareInformation">硬件信息</string>
+    <string name="id">标识符</string>
+    <string name="host">主机</string>
+    <string name="serial">序号</string>
+    <string name="manufacturer">制造商</string>
+    <string name="model">型号</string>
+    <string name="pingerPrint">设备标识符</string>
+    <string name="product">设备名称</string>
+    <string name="tags">设备描述</string>
+    <string name="type">设备类别</string>
+    <string name="user">使用者</string>
+    <string name="version.codename">目前开发代号</string>
+    <string name="version.incremental">内部标识符</string>
+    <string name="version.release">软件版本</string>
+    <string name="version.sdk">SDK</string>
+    <string name="version.sdkIint">API</string>
+</resources>

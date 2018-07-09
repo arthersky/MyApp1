@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:iPhone="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    iPhone:layout_width="match_parent"
+    iPhone:layout_height="match_parent"
+    iPhone:paddingBottom="@dimen/activity_vertical_margin"
+    iPhone:paddingLeft="@dimen/activity_horizontal_margin"
+    iPhone:paddingRight="@dimen/activity_horizontal_margin"
+    iPhone:paddingTop="@dimen/activity_vertical_margin"
+    tools:context="com.a000webhostapp.langostudio.android.myapp1.MainActivity">
+
+    <TextView
+        iPhone:layout_width="wrap_content"
+        iPhone:layout_height="wrap_content"
+        iPhone:text="@string/hello"
+        iPhone:layout_alignParentTop="true"
+        iPhone:layout_alignParentStart="true"
+        iPhone:layout_alignParentEnd="true"
+        iPhone:textSize="32dp"
+        iPhone:textAlignment="center"
+        iPhone:layout_above="@+id/changePicture" />
+
+    <ImageView
+        iPhone:layout_width="wrap_content"
+        iPhone:layout_height="wrap_content"
+        iPhone:id="@+id/changePicture"
+        iPhone:layout_centerVertical="true"
+        iPhone:layout_centerHorizontal="true"
+        iPhone:src="@drawable/p01"
+        iPhone:onClick="changePicture" />
+
+</RelativeLayout>

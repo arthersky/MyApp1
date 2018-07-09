@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">My App1</string>
+    <string name="activity_name">My Activity</string>
+    <string name="hello">Aloha Android!</string>
+    <string name="screen">Screen</string>
+    <string name="version.sdk">SDK</string>
+    <string name="version.sdkIint">API</string>
+    <string name="boardName">Motherboard name</string>
+    <string name="bootLoader">Loader version number</string>
+    <string name="brand">brand name</string>
+    <string name="cpu_abi">processor</string>
+    <string name="device">Device name</string>
+    <string name="display">Version number</string>
+    <string name="factorTime">Date of manufacture</string>
+    <string name="hardWare">Hardware name</string>
+    <string name="hardwareInformation">hardware information</string>
+    <string name="host">Host </string>
+    <string name="id">Identifier</string>
+    <string name="manufacturer">manufacturer</string>
+    <string name="model">First picture First program Motherboard name Loader version number brand name processor Device name Version number Date of manufacture Hardware name hardware information Aloha Android! Host Identifier manufacturer model Device identifier Device name screen Serial number Device Description Equipment category user Current development code Internal identifier Software version SDK API</string>
+    <string name="pingerPrint">Device identifier</string>
+    <string name="product">Device name</string>
+    <string name="serial">Serial number</string>
+    <string name="tags">Device Description</string>
+    <string name="user">user</string>
+    <string name="type">Equipment category</string>
+    <string name="version.codename">Current development code</string>
+    <string name="version.incremental">Internal identifier</string>
+    <string name="version.release">Software version</string>
+
+</resources>

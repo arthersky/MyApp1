@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--APP安裝的位址 auto 依照原廠設定 internalOnly-->
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.a000webhostapp.langostudio.android.myapp1"
+    android:installLocation="auto"
+    >
+    <!--
+    allowBackup 不允許備份軟體備份
+    android:icon 預設的icon位置
+    android:label 程式名稱
+    android:supportsRtl 由左到右
+    <activity android:name 程式開始的時候進入的檔案
+    -->
+    <application
+        android:allowBackup="false"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".MainActivity"
+            android:label="@string/activity_name">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

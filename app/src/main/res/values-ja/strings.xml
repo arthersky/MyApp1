@@ -1,0 +1,30 @@
+<resources>
+         <string name = "app_name">最初のプログラム</string>
+         <string name = "activity_name">最初の画面</string>
+         <string name = "hello">こんにちは世界</string>
+    <string name="screen">画面</string>
+    <string name="version.sdk">SDK</string>
+    <string name="version.sdkIint">API</string>
+    <string name="boardName">マザーボード名</string>
+    <string name="bootLoader">ローダーのバージョン番号</string>
+    <string name="brand">ブランド名</string>
+    <string name="cpu_abi">プロセッサー</string>
+    <string name="device">デバイス名</string>
+    <string name="display">バージョン番号</string>
+    <string name="factorTime">工場の日付</string>
+    <string name="hardWare">ハードウェア名</string>
+    <string name="hardwareInformation">ハードウェア情報</string>
+    <string name="host">ホスト</string>
+    <string name="id">識別子</string>
+    <string name="manufacturer">メーカー</string>
+    <string name="model">モデル</string>
+    <string name="pingerPrint">デバイス識別子</string>
+    <string name="product">デバイス名</string>
+    <string name="serial">シリアル番号</string>
+    <string name="tags">デバイスの説明</string>
+    <string name="type">機器カテゴリ</string>
+    <string name="user">ユーザー</string>
+    <string name="version.codename">現在の開発コード</string>
+    <string name="version.incremental">内部識別子</string>
+    <string name="version.release">ソフトウェアのバージョン</string>
+</resources>
